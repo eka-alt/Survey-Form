@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(153, 0, 76, 0.1);
+    
+}
+img{
+    width: 20%;
+}
+form{
+    text-align: center;
+    background-color: rgba(153, 0, 76, 0.1)
+
+}
+header{
+    text-align: center;
+}
+#title{
+    font-size: 4rem;
+    line-height: 1.4;
+    font-weight: 400;
+    margin: 0;
+}
+#description{
+    font-size: 1.4rem;
+    font-style: italic;
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
+}
+#name,
+#name-label{
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 1.2rem;
+}
+.form-control{
+    height: 2.1rem;
+    width: 50%;
+    border-radius: 1rem;
+    color: #495057;
+    
+}
+#email,
+#email-label{
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 1.2rem;
+    
+}
+.forms{
+    margin-top: 2rem;
+}
+#number,
+#age-label{
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 1rem;
+}
+
+#question{
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 1.2rem;
+
+}
+
+#dropdown{
+    height: 2.5rem;
+    width: 51%;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 1.2rem;
+}
+label{
+    width: 100%;
+    margin-left: 1.5rem;
+    text-align: left;
+    font-size: 1.5rem;
+}
+.input-radio{
+    margin-left: -1.5rem;
+}
+.input-radios{
+    margin-left: -2rem;
+}
+.input-radioi{
+    margin-left: -3.1rem;
+}
+
+#input-control{
+    height: 10rem;
+    width: 50%;
+    font-size: 1rem;
+}
+#submit{
+    width: 50.5%;
+    height: 3rem;
+    font-weight: 700;
+    font-size: inherit;
+}
+.input-checkbox4{
+    margin-left: 0.7rem;
+}
+.input-checkbox3{
+    margin-left: 0.1rem;
+}
